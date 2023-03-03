@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Sales Analysis             |  - to perform further revenue calculations            | https://github.com/gyesibiney/Project-Alpha.git       |
+| 2 |  -Password Generator             |  -to generate passord and store in a dictionary             | https://github.com/gyesibiney/Project-Beta.git       |
+| 3 |  -Patients Data Record Analysis             |  -Analyze patients data             | https://github.com/gyesibiney/Project-Gamma.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
@@ -51,8 +51,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
 This evaluation will be automatically grade, so please follow the instructions carefully. 
 
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
-```command
-python -m pytest -v
+```comman
 ```
 
 If everything is okay, you will have such an output
